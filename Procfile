@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT gex_personal_2707.wsgi:application
